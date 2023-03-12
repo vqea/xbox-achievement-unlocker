@@ -8,7 +8,7 @@
 * 100% Bannable
 * your token will not show when you enter it due to the input method using GetPass.
 
-* Requirements
+* requirements
   - Python 3.9
   - asyncio
   - aiohttp
